@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 ## 🪩 about me
 
-🎓 data science student @ bocconi university, milan (MSc)
-   commerce graduate @ university of toronto, rotman commerce (BComm, Distinction)
-📍 Bocconi Machine Learning Association | Bocconi Build Sustainable Innovation Association
-🧠 interested in using data and AI to find clarity in ambiguous settings
+- 🎓 education
+-    data science student @ bocconi university, milan (MSc)
+-       ce graduate @ university of toronto, rotman commerce (BComm, Distinction)
+- 📍 Bocconi Machine Learning Association | Bocconi Build Sustainable Innovation Association
+- 🧠 interested in using data and AI to find clarity in ambiguous settings
 
 
 ## 💬 socials
@@ -47,8 +48,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 
----
-# 🧠 current interests
+## 🧠 current interests
 
 - applied NLP and machine learning
 - agent simulations and outcome simulations
