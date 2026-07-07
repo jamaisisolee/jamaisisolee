@@ -14,22 +14,21 @@ Here are some ideas to get you started:
 -->
 
 
-# 🪩 about me
----
- 
+## 🪩 about me
+
 🎓 data science student @ bocconi university, milan (MSc)
    commerce graduate @ university of toronto, rotman commerce (BComm, Distinction)
 📍 Bocconi Machine Learning Association | Bocconi Build Sustainable Innovation Association
 🧠 interested in using data and AI to find clarity in ambiguous settings
 
----
-# 💬 socials
+
+## 💬 socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissasharuda/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissa.sharuda@gmail.com)
 
----
-# 🛠 skills
+
+## 🛠 skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
