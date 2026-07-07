@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 ## 🪩 about me
 
 - 🎓 education
--    data science student @ bocconi university, milan (MSc)
--       ce graduate @ university of toronto, rotman commerce (BComm, Distinction)
-- 📍 Bocconi Machine Learning Association | Bocconi Build Sustainable Innovation Association
+  - data science student @ bocconi university, milan (MSc)
+  - commerce graduate @ university of toronto, rotman commerce (BComm, Distinction)
+- 📍 associations
+  - Bocconi Machine Learning Association
+  - Bocconi Build Sustainable Innovation Association
 - 🧠 interested in using data and AI to find clarity in ambiguous settings
 
 
